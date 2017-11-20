@@ -10,7 +10,7 @@ int main(){
 	double Tinggi, berat;
 	char yt;
 	atas:
-	
+	cout <<"---------------------------------\n";
 	cout <<"1.Persegi panjang		|\n";
 	cout <<"2.Segitiga			|\n";
 	cout <<"3.Perhitungan berat badan	|\n";
